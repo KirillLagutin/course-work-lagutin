@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/course-work-lagutin/static/css/main.89ecb85f.css",
+    "main.js": "/course-work-lagutin/static/js/main.9fe5dee9.js",
+    "static/js/787.372ab75c.chunk.js": "/course-work-lagutin/static/js/787.372ab75c.chunk.js",
+    "static/media/Kvartal.jpg": "/course-work-lagutin/static/media/Kvartal.3551836ff529e8d8f3a3.jpg",
+    "static/media/ShopOnline.jpg": "/course-work-lagutin/static/media/ShopOnline.0746b8d6b4a775bce93a.jpg",
+    "static/media/MenuRestaurant.jpg": "/course-work-lagutin/static/media/MenuRestaurant.fb49e64c9cadd9b48d86.jpg",
+    "static/media/MailKit.jpg": "/course-work-lagutin/static/media/MailKit.5f6b0d2c931c93ea9152.jpg",
+    "static/media/Cars.jpg": "/course-work-lagutin/static/media/Cars.54abda7bc0a6daa1ae66.jpg",
+    "static/media/Kirill.jpg": "/course-work-lagutin/static/media/Kirill.debe9c711b1f1b64b6ba.jpg",
+    "static/media/TravelOdigo.jpeg": "/course-work-lagutin/static/media/TravelOdigo.9b41db3d89ef6bdb860b.jpeg",
+    "static/media/Portfolio.jpeg": "/course-work-lagutin/static/media/Portfolio.c8f91765ce7636ab5edd.jpeg",
+    "static/media/CalculatorReact.jpeg": "/course-work-lagutin/static/media/CalculatorReact.c283fa638c60105c3368.jpeg",
+    "static/media/Drums.jpeg": "/course-work-lagutin/static/media/Drums.2bb24ace4fad4be9cb86.jpeg",
+    "static/media/Piano.jpeg": "/course-work-lagutin/static/media/Piano.189baa90d34ba952b733.jpeg",
+    "index.html": "/course-work-lagutin/index.html",
+    "main.89ecb85f.css.map": "/course-work-lagutin/static/css/main.89ecb85f.css.map",
+    "main.9fe5dee9.js.map": "/course-work-lagutin/static/js/main.9fe5dee9.js.map",
+    "787.372ab75c.chunk.js.map": "/course-work-lagutin/static/js/787.372ab75c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ecb85f.css",
+    "static/js/main.9fe5dee9.js"
+  ]
+}
